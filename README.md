@@ -65,3 +65,6 @@ For Devs
 6. Run the node backend server for database authentication using 'node auth.cjs'
 
 7. Run the frontend app server on a separate terminal using `npm run dev`
+
+## Our competition submission
+https://devpost.com/software/ubuntu-unity?ref_content=my-projects-tab&ref_feature=my_projects
